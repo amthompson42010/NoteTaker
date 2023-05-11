@@ -1,0 +1,11 @@
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\bin\Debug\NoteTakerForms.exe.config
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\bin\Debug\NoteTakerForms.exe
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\bin\Debug\NoteTakerForms.pdb
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.csproj.AssemblyReference.cache
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.csproj.SuggestedBindingRedirects.cache
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.Form1.resources
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.Properties.Resources.resources
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.csproj.GenerateResource.cache
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.csproj.CoreCompileInputs.cache
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.exe
+I:\personal_projects\c_#_stuff\c#_projects\NoteTakerForms\obj\Debug\NoteTakerForms.pdb
